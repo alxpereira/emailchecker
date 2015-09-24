@@ -12,7 +12,7 @@ https://pip.pypa.io/en/stable/installing/
 Then install the dependencies :
 ```sh
 $ pip install pyDNS
-$ pip install pip install validate_email
+$ pip install validate_email
 ```
 
 ### Usage
